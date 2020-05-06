@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/huanhuanjun/huanhuan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 欢迎使用GitHub页面
+您可以使用[GitHub上的编辑器]（https://GitHub.com/huanhuanjun/huanhuan.GitHub.io/edit/master/README.md）在标记文件中维护和预览网站内容。
+每当您提交到此存储库时，GitHub页面将运行[Jekyll]（https://jekyllrb.com/）以从标记文件中的内容重建站点中的页面。
+###降价
+Markdown是一种轻量级且易于使用的语法，用于设置写作样式。它包括
+```降价
+语法突出显示的代码块
+#标题1
+##标题2
+###标题3
+-项目符号
+-列表
+一。编号
+2。列表
+**加粗**和斜体以及“代码”文本
+[链接]（url）和！[图像]（src）
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huanhuanjun/huanhuan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+有关更多详细信息，请参阅[GitHub风格的标记]（https://guides.GitHub.com/features/mastering Markdown/）。
+###杰基尔主题
+您的页面站点将使用您在[存储库设置]（https://github.com/huanhuanjun/huanhuan.github.io/settings）中选择的Jekyll主题的布局和样式。此主题的名称保存在Jekyll`_config.yml`配置文件中。
+###支持或联系
+页面有问题吗？查看我们的[文档]（https://help.github.com/categories/github-pages-basics/）或[联系支持]（https://github.com/contact），我们将帮助您解决问题。
